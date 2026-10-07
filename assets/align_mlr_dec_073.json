@@ -1,0 +1,196 @@
+{
+  "book_id": "mlr_dec_073",
+  "product": "decodable",
+  "title": "Weather Is Not Bad. Your Coat Is.",
+  "level": "DEC 073",
+  "sound": "ea = /\u0115/ (bread, head, ready, weather, heavy, instead \u2014 the same two letters as Book 63, saying short E instead of long E)",
+  "famous": [
+    "hear"
+  ],
+  "pages": [
+    {
+      "page_id": "p01",
+      "text": "Weather is the sky over your head: wet weather, hot weather, wild weather.",
+      "image": "books/mlr_dec_073/pages/p01.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p01.mp3",
+      "duration_ms": 7079,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p01.mp3",
+      "song_duration_ms": 8045
+    },
+    {
+      "page_id": "p02",
+      "text": "Weather can turn fast. Hot sun at ten, heavy rain on your head at noon. Get ready!",
+      "image": "books/mlr_dec_073/pages/p02.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p02.mp3",
+      "duration_ms": 7732,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p02.mp3",
+      "song_duration_ms": 8986
+    },
+    {
+      "page_id": "p03",
+      "text": "Heavy drops thump on your head. Mist is not heavy, so it hangs there instead.",
+      "image": "books/mlr_dec_073/pages/p03.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p03.mp3",
+      "duration_ms": 6922,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p03.mp3",
+      "song_duration_ms": 7758
+    },
+    {
+      "page_id": "p04",
+      "text": "Wind is the sky on the run: hot lifts, cold slides in instead. Wind sends heavy weather over your head.",
+      "image": "books/mlr_dec_073/pages/p04.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p04.mp3",
+      "duration_ms": 9351,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p04.mp3",
+      "song_duration_ms": 10422
+    },
+    {
+      "page_id": "p05",
+      "text": "In wild weather, light comes first. Sound is last, so you hear the thunder after. Count in your head!",
+      "image": "books/mlr_dec_073/pages/p05.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p05.mp3",
+      "duration_ms": 8568,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p05.mp3",
+      "song_duration_ms": 10239
+    },
+    {
+      "page_id": "p06",
+      "text": "A cloud can spread out flat and dead grey. That hints at wet weather ahead, so get ready.",
+      "image": "books/mlr_dec_073/pages/p06.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p06.mp3",
+      "duration_ms": 7366,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p06.mp3",
+      "song_duration_ms": 9639
+    },
+    {
+      "page_id": "p07",
+      "text": "In wet weather, get your head ready: a hood. In cold weather, a sweater. In hot weather, a hat instead.",
+      "image": "books/mlr_dec_073/pages/p07.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p07.mp3",
+      "duration_ms": 10213,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p07.mp3",
+      "song_duration_ms": 10057
+    },
+    {
+      "page_id": "p08",
+      "text": "In cold weather a sweater is not hot \u2014 your body is. A sweater holds your hot in, head to feet.",
+      "image": "books/mlr_dec_073/pages/p08.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p08.mp3",
+      "duration_ms": 8045,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p08.mp3",
+      "song_duration_ms": 10057
+    },
+    {
+      "page_id": "p09",
+      "text": "In cold weather you can see your breath. But a wet head is not a threat to your health: germs are.",
+      "image": "books/mlr_dec_073/pages/p09.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p09.mp3",
+      "duration_ms": 8045,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_073/audio/song/p09.mp3",
+      "song_duration_ms": 9299
+    },
+    {
+      "page_id": "p10",
+      "text": "So look up and get ready. There is no bad weather, just a bad coat and a wet head!",
+      "image": "books/mlr_dec_073/pages/p10.webp",
+      "audio": "books/mlr_dec_073/audio/pages/p10.mp3",
+      "duration_ms": 7784,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": true,
+      "song_audio": "books/mlr_dec_073/audio/song/p10.mp3",
+      "song_duration_ms": 8097,
+      "video": "books/mlr_dec_073/video/p10.mp4"
+    }
+  ],
+  "voices": {
+    "listen": "57785406027844b29b63a772a8477bc2",
+    "words": "851d4a3a36814f8faef50db1884e1ef6",
+    "read_taps": "clear_american_male",
+    "song": "02019f80d2604688a746fbb5d2a0a0f8",
+    "song_label": "Youthful Nursery Singer #4",
+    "emotion": "podcast_host2_expressive",
+    "dictation": "ffd05ab81f184e10b6767e52342dd244",
+    "dictation_label": "Nia",
+    "listen_label": "Friendly Podcast Host #2"
+  },
+  "listen_speed": 0.8,
+  "jay_finish": "2026-09-08-listen-song-read-no-dictation",
+  "dictation": {
+    "n": 10,
+    "pass_pct": 80,
+    "speaker": "Nia",
+    "voice": "ffd05ab81f184e10b6767e52342dd244",
+    "items": [
+      {
+        "page_id": "p01",
+        "text": "Weather is the sky over your head: wet weather, hot weather, wild weather.",
+        "audio": "books/mlr_dec_073/audio/dictation/p01.mp3"
+      },
+      {
+        "page_id": "p02",
+        "text": "Weather can turn fast. Hot sun at ten, heavy rain on your head at noon. Get ready!",
+        "audio": "books/mlr_dec_073/audio/dictation/p02.mp3"
+      },
+      {
+        "page_id": "p03",
+        "text": "Heavy drops thump on your head. Mist is not heavy, so it hangs there instead.",
+        "audio": "books/mlr_dec_073/audio/dictation/p03.mp3"
+      },
+      {
+        "page_id": "p04",
+        "text": "Wind is the sky on the run: hot lifts, cold slides in instead. Wind sends heavy weather over your head.",
+        "audio": "books/mlr_dec_073/audio/dictation/p04.mp3"
+      },
+      {
+        "page_id": "p05",
+        "text": "In wild weather, light comes first. Sound is last, so you hear the thunder after. Count in your head!",
+        "audio": "books/mlr_dec_073/audio/dictation/p05.mp3"
+      },
+      {
+        "page_id": "p06",
+        "text": "A cloud can spread out flat and dead grey. That hints at wet weather ahead, so get ready.",
+        "audio": "books/mlr_dec_073/audio/dictation/p06.mp3"
+      },
+      {
+        "page_id": "p07",
+        "text": "In wet weather, get your head ready: a hood. In cold weather, a sweater. In hot weather, a hat instead.",
+        "audio": "books/mlr_dec_073/audio/dictation/p07.mp3"
+      },
+      {
+        "page_id": "p08",
+        "text": "In cold weather a sweater is not hot \u2014 your body is. A sweater holds your hot in, head to feet.",
+        "audio": "books/mlr_dec_073/audio/dictation/p08.mp3"
+      },
+      {
+        "page_id": "p09",
+        "text": "In cold weather you can see your breath. But a wet head is not a threat to your health: germs are.",
+        "audio": "books/mlr_dec_073/audio/dictation/p09.mp3"
+      },
+      {
+        "page_id": "p10",
+        "text": "So look up and get ready. There is no bad weather, just a bad coat and a wet head!",
+        "audio": "books/mlr_dec_073/audio/dictation/p10.mp3"
+      }
+    ],
+    "note": "Exact printed page sentences. Easy=tiles. Hard=A-Z pad. Punctuation given on hard."
+  },
+  "jay_finish_listen": "2026-09-09-listen-podcast-host2"
+}

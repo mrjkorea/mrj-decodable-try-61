@@ -1,0 +1,199 @@
+{
+  "book_id": "mlr_dec_061",
+  "product": "decodable",
+  "title": "The Paint That Tells You Where to Walk",
+  "level": "DEC 061",
+  "sound": "ai / ay = /ā/ (rain, trail, train, wait, paint · day, way, stay, gray)",
+  "famous": [
+    "sleep"
+  ],
+  "pages": [
+    {
+      "page_id": "p01",
+      "text": "A trail is a thin path in the hills. A trail can go on for days.",
+      "image": "books/mlr_dec_061/pages/p01.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p01.mp3",
+      "duration_ms": 5982,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p01.mp3",
+      "song_duration_ms": 7209
+    },
+    {
+      "page_id": "p02",
+      "text": "Rain and grass hide a trail fast, so a trail gets paint marks.",
+      "image": "books/mlr_dec_061/pages/p02.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p02.mp3",
+      "duration_ms": 5459,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p02.mp3",
+      "song_duration_ms": 6608
+    },
+    {
+      "page_id": "p03",
+      "text": "A dab of paint on a trunk is a blaze. The next blaze waits up the trail.",
+      "image": "books/mlr_dec_061/pages/p03.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p03.mp3",
+      "duration_ms": 5564,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p03.mp3",
+      "song_duration_ms": 7209
+    },
+    {
+      "page_id": "p04",
+      "text": "A turn gets two paint marks. The top mark shifts left, and so does the trail.",
+      "image": "books/mlr_dec_061/pages/p04.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p04.mp3",
+      "duration_ms": 6399,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p04.mp3",
+      "song_duration_ms": 7026
+    },
+    {
+      "page_id": "p05",
+      "text": "Paint names the trail: the main trail is white, and a small trail is red.",
+      "image": "books/mlr_dec_061/pages/p05.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p05.mp3",
+      "duration_ms": 6452,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p05.mp3",
+      "song_duration_ms": 7758
+    },
+    {
+      "page_id": "p06",
+      "text": "Past the last trunk, paint has no spot, so hikers stack rocks to mark the way.",
+      "image": "books/mlr_dec_061/pages/p06.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p06.mp3",
+      "duration_ms": 6556,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p06.mp3",
+      "song_duration_ms": 7026
+    },
+    {
+      "page_id": "p07",
+      "text": "Some old train rails are trails now. The trains went, and the flat trail stays for miles.",
+      "image": "books/mlr_dec_061/pages/p07.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p07.mp3",
+      "duration_ms": 7836,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p07.mp3",
+      "song_duration_ms": 9482
+    },
+    {
+      "page_id": "p08",
+      "text": "A long trail can take days and days, so hikers sleep in tents by the trail.",
+      "image": "books/mlr_dec_061/pages/p08.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p08.mp3",
+      "duration_ms": 6556,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p08.mp3",
+      "song_duration_ms": 7810
+    },
+    {
+      "page_id": "p09",
+      "text": "Paint can not talk, but a blaze tells you: stay on the trail. Hikers who stray trample plants.",
+      "image": "books/mlr_dec_061/pages/p09.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p09.mp3",
+      "duration_ms": 8777,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_061/audio/song/p09.mp3",
+      "song_duration_ms": 10475
+    },
+    {
+      "page_id": "p10",
+      "text": "A dab of paint wins: it turns lots of hikers left on a gray day, and not one asks why.",
+      "image": "books/mlr_dec_061/pages/p10.webp",
+      "audio": "books/mlr_dec_061/audio/pages/p10.mp3",
+      "duration_ms": 8045,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": true,
+      "song_audio": "books/mlr_dec_061/audio/song/p10.mp3",
+      "song_duration_ms": 10057,
+      "video": "books/mlr_dec_061/video/p10.mp4"
+    }
+  ],
+  "voices": {
+    "listen": "57785406027844b29b63a772a8477bc2",
+    "words": "851d4a3a36814f8faef50db1884e1ef6",
+    "read_taps": "clear_american_male",
+    "song": "02019f80d2604688a746fbb5d2a0a0f8",
+    "song_label": "Youthful Nursery Singer #4",
+    "emotion": "podcast_host2_expressive",
+    "dictation": "a97131ef0e2f4bc3b55305c9d3ab57c5",
+    "dictation_label": "Cowboy",
+    "listen_label": "Friendly Podcast Host #2"
+  },
+  "listen_speed": 0.8,
+  "jay_finish": "2026-09-08-listen-song-read-no-dictation",
+  "dictation": {
+    "n": 10,
+    "pass_pct": 80,
+    "speaker": "Cowboy",
+    "voice": "a97131ef0e2f4bc3b55305c9d3ab57c5",
+    "items": [
+      {
+        "page_id": "p01",
+        "text": "A trail is a thin path in the hills. A trail can go on for days.",
+        "audio": "books/mlr_dec_061/audio/dictation/p01.mp3"
+      },
+      {
+        "page_id": "p02",
+        "text": "Rain and grass hide a trail fast, so a trail gets paint marks.",
+        "audio": "books/mlr_dec_061/audio/dictation/p02.mp3"
+      },
+      {
+        "page_id": "p03",
+        "text": "A dab of paint on a trunk is a blaze. The next blaze waits up the trail.",
+        "audio": "books/mlr_dec_061/audio/dictation/p03.mp3"
+      },
+      {
+        "page_id": "p04",
+        "text": "A turn gets two paint marks. The top mark shifts left, and so does the trail.",
+        "audio": "books/mlr_dec_061/audio/dictation/p04.mp3"
+      },
+      {
+        "page_id": "p05",
+        "text": "Paint names the trail: the main trail is white, and a small trail is red.",
+        "audio": "books/mlr_dec_061/audio/dictation/p05.mp3"
+      },
+      {
+        "page_id": "p06",
+        "text": "Past the last trunk, paint has no spot, so hikers stack rocks to mark the way.",
+        "audio": "books/mlr_dec_061/audio/dictation/p06.mp3"
+      },
+      {
+        "page_id": "p07",
+        "text": "Some old train rails are trails now. The trains went, and the flat trail stays for miles.",
+        "audio": "books/mlr_dec_061/audio/dictation/p07.mp3"
+      },
+      {
+        "page_id": "p08",
+        "text": "A long trail can take days and days, so hikers sleep in tents by the trail.",
+        "audio": "books/mlr_dec_061/audio/dictation/p08.mp3"
+      },
+      {
+        "page_id": "p09",
+        "text": "Paint can not talk, but a blaze tells you: stay on the trail. Hikers who stray trample plants.",
+        "audio": "books/mlr_dec_061/audio/dictation/p09.mp3"
+      },
+      {
+        "page_id": "p10",
+        "text": "A dab of paint wins: it turns lots of hikers left on a gray day, and not one asks why.",
+        "audio": "books/mlr_dec_061/audio/dictation/p10.mp3"
+      }
+    ],
+    "note": "Exact printed page sentences. Easy=tiles. Hard=A-Z pad. Punctuation given on hard."
+  },
+  "jay_finish_listen": "2026-09-09-listen-podcast-host2",
+  "law_breaker": [
+    "talk"
+  ]
+}

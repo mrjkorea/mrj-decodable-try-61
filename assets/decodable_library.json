@@ -1,0 +1,165 @@
+{
+  "product": "decodable",
+  "books": [
+    {
+      "id": "mlr_dec_061",
+      "title": "The Paint That Tells You Where to Walk",
+      "level": "DEC 061",
+      "sound": "ai / ay",
+      "align": "align_mlr_dec_061.json",
+      "cover": "books/mlr_dec_061/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_062",
+      "title": "A Sheep Keeps the Hill Green",
+      "level": "DEC 062",
+      "sound": "ee",
+      "align": "align_mlr_dec_062.json",
+      "cover": "books/mlr_dec_062/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_063",
+      "title": "The Sea Has a Beat",
+      "level": "DEC 063",
+      "sound": "ea",
+      "align": "align_mlr_dec_063.json",
+      "cover": "books/mlr_dec_063/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_064",
+      "title": "Light Is the Thing You Can Not See",
+      "level": "DEC 064",
+      "sound": "igh",
+      "align": "align_mlr_dec_064.json",
+      "cover": "books/mlr_dec_064/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_065",
+      "title": "Lan Floats the Tin Boat",
+      "level": "DEC 065",
+      "sound": "oa",
+      "align": "align_mlr_dec_065.json",
+      "cover": "books/mlr_dec_065/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_066",
+      "title": "Every Zoo Animal Gets a Toy",
+      "level": "DEC 066",
+      "sound": "oo moon",
+      "align": "align_mlr_dec_066.json",
+      "cover": "books/mlr_dec_066/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_067",
+      "title": "A Cook Book Is a Book You Must Do",
+      "level": "DEC 067",
+      "sound": "oo book",
+      "align": "align_mlr_dec_067.json",
+      "cover": "books/mlr_dec_067/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_068",
+      "title": "The Owl Comes Down Without a Sound",
+      "level": "DEC 068",
+      "sound": "ou / ow",
+      "align": "align_mlr_dec_068.json",
+      "cover": "books/mlr_dec_068/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_069",
+      "title": "Oil Is Not Water",
+      "level": "DEC 069",
+      "sound": "oi / oy",
+      "align": "align_mlr_dec_069.json",
+      "cover": "books/mlr_dec_069/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_070",
+      "title": "Omar Draws a Hawk on the Lawn",
+      "level": "DEC 070",
+      "sound": "au / aw",
+      "align": "align_mlr_dec_070.json",
+      "cover": "books/mlr_dec_070/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_071",
+      "title": "Blue Is a Trick",
+      "level": "DEC 071",
+      "sound": "schwa",
+      "align": "align_mlr_dec_071.json",
+      "cover": "books/mlr_dec_071/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_072",
+      "title": "Grey Wins",
+      "level": "DEC 072",
+      "sound": "ey they",
+      "align": "align_mlr_dec_072.json",
+      "cover": "books/mlr_dec_072/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_073",
+      "title": "Weather Is Not Bad. Your Coat Is.",
+      "level": "DEC 073",
+      "sound": "ea bread",
+      "align": "align_mlr_dec_073.json",
+      "cover": "books/mlr_dec_073/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_074",
+      "title": "Snow Is Not White",
+      "level": "DEC 074",
+      "sound": "ow snow",
+      "align": "align_mlr_dec_074.json",
+      "cover": "books/mlr_dec_074/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_075",
+      "title": "Yuna and the Blue Glue",
+      "level": "DEC 075",
+      "sound": "ew / ue",
+      "align": "align_mlr_dec_075.json",
+      "cover": "books/mlr_dec_075/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_076",
+      "title": "Hair Is a Thread That Grows",
+      "level": "DEC 076",
+      "sound": "air",
+      "align": "align_mlr_dec_076.json",
+      "cover": "books/mlr_dec_076/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_077",
+      "title": "Your Ear Never Shuts",
+      "level": "DEC 077",
+      "sound": "ear / eer",
+      "align": "align_mlr_dec_077.json",
+      "cover": "books/mlr_dec_077/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_078",
+      "title": "The k That Stopped Talking",
+      "level": "DEC 078",
+      "sound": "kn",
+      "align": "align_mlr_dec_078.json",
+      "cover": "books/mlr_dec_078/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_079",
+      "title": "Every wr Word Has a Twist in It",
+      "level": "DEC 079",
+      "sound": "wr",
+      "align": "align_mlr_dec_079.json",
+      "cover": "books/mlr_dec_079/pages/p01.webp"
+    },
+    {
+      "id": "mlr_dec_080",
+      "title": "Crumb the Lamb Can Climb",
+      "level": "DEC 080",
+      "sound": "-mb",
+      "align": "align_mlr_dec_080.json",
+      "cover": "books/mlr_dec_080/pages/p01.webp"
+    }
+  ]
+}

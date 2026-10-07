@@ -1,0 +1,199 @@
+{
+  "book_id": "mlr_dec_063",
+  "product": "decodable",
+  "title": "The Sea Has a Beat",
+  "level": "DEC 063",
+  "sound": "ea = /ē/ (eat, sea, tea, beach, each — two letters, one long E)",
+  "famous": [
+    "high"
+  ],
+  "pages": [
+    {
+      "page_id": "p01",
+      "text": "Sea water is salt water. Lick a drop at the beach! Each sea is salty.",
+      "image": "books/mlr_dec_063/pages/p01.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p01.mp3",
+      "duration_ms": 6452,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p01.mp3",
+      "song_duration_ms": 8411
+    },
+    {
+      "page_id": "p02",
+      "text": "Most of this planet is sea. No sun can reach the deep sea bed.",
+      "image": "books/mlr_dec_063/pages/p02.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p02.mp3",
+      "duration_ms": 5825,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p02.mp3",
+      "song_duration_ms": 6504
+    },
+    {
+      "page_id": "p03",
+      "text": "Twice each day the sea creeps up the beach, then slides back, like a heart beat.",
+      "image": "books/mlr_dec_063/pages/p03.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p03.mp3",
+      "duration_ms": 6295,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p03.mp3",
+      "song_duration_ms": 8463
+    },
+    {
+      "page_id": "p04",
+      "text": "At high tide the sea leaves shells and sea weed on the sand. Each heap is a treat.",
+      "image": "books/mlr_dec_063/pages/p04.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p04.mp3",
+      "duration_ms": 7026,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p04.mp3",
+      "song_duration_ms": 8411
+    },
+    {
+      "page_id": "p05",
+      "text": "Waves are made by wind. Each wave lifts the sea and beats at the beach.",
+      "image": "books/mlr_dec_063/pages/p05.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p05.mp3",
+      "duration_ms": 6138,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p05.mp3",
+      "song_duration_ms": 6556
+    },
+    {
+      "page_id": "p06",
+      "text": "Each fish eats. Little fish eat specks, big fish eat them, and a shark eats meat.",
+      "image": "books/mlr_dec_063/pages/p06.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p06.mp3",
+      "duration_ms": 8202,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p06.mp3",
+      "song_duration_ms": 8698
+    },
+    {
+      "page_id": "p07",
+      "text": "A seal can leap in and dive deep. Its heart beats at half speed, so it can stay in the sea.",
+      "image": "books/mlr_dec_063/pages/p07.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p07.mp3",
+      "duration_ms": 7679,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p07.mp3",
+      "song_duration_ms": 8646
+    },
+    {
+      "page_id": "p08",
+      "text": "A whale is the big beast of the sea. Its heart is as big as a car, and each beat thumps.",
+      "image": "books/mlr_dec_063/pages/p08.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p08.mp3",
+      "duration_ms": 8463,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p08.mp3",
+      "song_duration_ms": 8228
+    },
+    {
+      "page_id": "p09",
+      "text": "We eat a lot from the sea. A dry sea weed leaf is a snack, and crab meat is a feast.",
+      "image": "books/mlr_dec_063/pages/p09.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p09.mp3",
+      "duration_ms": 8254,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_063/audio/song/p09.mp3",
+      "song_duration_ms": 8568
+    },
+    {
+      "page_id": "p10",
+      "text": "The sea feeds us, so keep it clean. Take your trash off the beach, and each sea star keeps its home.",
+      "image": "books/mlr_dec_063/pages/p10.webp",
+      "audio": "books/mlr_dec_063/audio/pages/p10.mp3",
+      "duration_ms": 8202,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": true,
+      "song_audio": "books/mlr_dec_063/audio/song/p10.mp3",
+      "song_duration_ms": 10318,
+      "video": "books/mlr_dec_063/video/p10.mp4"
+    }
+  ],
+  "voices": {
+    "listen": "57785406027844b29b63a772a8477bc2",
+    "words": "851d4a3a36814f8faef50db1884e1ef6",
+    "read_taps": "clear_american_male",
+    "song": "02019f80d2604688a746fbb5d2a0a0f8",
+    "song_label": "Youthful Nursery Singer #4",
+    "emotion": "podcast_host2_expressive",
+    "dictation": "a97131ef0e2f4bc3b55305c9d3ab57c5",
+    "dictation_label": "Cowboy",
+    "listen_label": "Friendly Podcast Host #2"
+  },
+  "listen_speed": 0.8,
+  "jay_finish": "2026-09-08-listen-song-read-no-dictation",
+  "dictation": {
+    "n": 10,
+    "pass_pct": 80,
+    "speaker": "Cowboy",
+    "voice": "a97131ef0e2f4bc3b55305c9d3ab57c5",
+    "items": [
+      {
+        "page_id": "p01",
+        "text": "Sea water is salt water. Lick a drop at the beach! Each sea is salty.",
+        "audio": "books/mlr_dec_063/audio/dictation/p01.mp3"
+      },
+      {
+        "page_id": "p02",
+        "text": "Most of this planet is sea. No sun can reach the deep sea bed.",
+        "audio": "books/mlr_dec_063/audio/dictation/p02.mp3"
+      },
+      {
+        "page_id": "p03",
+        "text": "Twice each day the sea creeps up the beach, then slides back, like a heart beat.",
+        "audio": "books/mlr_dec_063/audio/dictation/p03.mp3"
+      },
+      {
+        "page_id": "p04",
+        "text": "At high tide the sea leaves shells and sea weed on the sand. Each heap is a treat.",
+        "audio": "books/mlr_dec_063/audio/dictation/p04.mp3"
+      },
+      {
+        "page_id": "p05",
+        "text": "Waves are made by wind. Each wave lifts the sea and beats at the beach.",
+        "audio": "books/mlr_dec_063/audio/dictation/p05.mp3"
+      },
+      {
+        "page_id": "p06",
+        "text": "Each fish eats. Little fish eat specks, big fish eat them, and a shark eats meat.",
+        "audio": "books/mlr_dec_063/audio/dictation/p06.mp3"
+      },
+      {
+        "page_id": "p07",
+        "text": "A seal can leap in and dive deep. Its heart beats at half speed, so it can stay in the sea.",
+        "audio": "books/mlr_dec_063/audio/dictation/p07.mp3"
+      },
+      {
+        "page_id": "p08",
+        "text": "A whale is the big beast of the sea. Its heart is as big as a car, and each beat thumps.",
+        "audio": "books/mlr_dec_063/audio/dictation/p08.mp3"
+      },
+      {
+        "page_id": "p09",
+        "text": "We eat a lot from the sea. A dry sea weed leaf is a snack, and crab meat is a feast.",
+        "audio": "books/mlr_dec_063/audio/dictation/p09.mp3"
+      },
+      {
+        "page_id": "p10",
+        "text": "The sea feeds us, so keep it clean. Take your trash off the beach, and each sea star keeps its home.",
+        "audio": "books/mlr_dec_063/audio/dictation/p10.mp3"
+      }
+    ],
+    "note": "Exact printed page sentences. Easy=tiles. Hard=A-Z pad. Punctuation given on hard."
+  },
+  "jay_finish_listen": "2026-09-09-listen-podcast-host2",
+  "law_breaker": [
+    "heart"
+  ]
+}

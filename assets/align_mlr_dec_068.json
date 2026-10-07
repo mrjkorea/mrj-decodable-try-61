@@ -1,0 +1,199 @@
+{
+  "book_id": "mlr_dec_068",
+  "product": "decodable",
+  "title": "The Owl Comes Down Without a Sound",
+  "level": "DEC 068",
+  "sound": "ou / ow = /aʊ/ (cow, house, cloud, down, now — the mouth-open sound in `owl`, `round`, `sound`, `ground`, `out`)",
+  "famous": [
+    "they"
+  ],
+  "pages": [
+    {
+      "page_id": "p01",
+      "text": "An owl hunts at night. From a tree it spots a mouse down on the ground.",
+      "image": "books/mlr_dec_068/pages/p01.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p01.mp3",
+      "duration_ms": 6086,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p01.mp3",
+      "song_duration_ms": 7575
+    },
+    {
+      "page_id": "p02",
+      "text": "An owl cannot move its eye. To look about, it twists its neck almost all the way round.",
+      "image": "books/mlr_dec_068/pages/p02.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p02.mp3",
+      "duration_ms": 7784,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p02.mp3",
+      "song_duration_ms": 10788
+    },
+    {
+      "page_id": "p03",
+      "text": "That round face is a dish that scoops sound in. An owl hunts a mouse it cannot see.",
+      "image": "books/mlr_dec_068/pages/p03.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p03.mp3",
+      "duration_ms": 7993,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p03.mp3",
+      "song_duration_ms": 9404
+    },
+    {
+      "page_id": "p04",
+      "text": "An owl's wings have soft edges. They hush each flap, so an owl comes down without a sound.",
+      "image": "books/mlr_dec_068/pages/p04.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p04.mp3",
+      "duration_ms": 8411,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p04.mp3",
+      "song_duration_ms": 8829
+    },
+    {
+      "page_id": "p05",
+      "text": "It drops down through the dark and grabs the mouse with sharp feet.",
+      "image": "books/mlr_dec_068/pages/p05.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p05.mp3",
+      "duration_ms": 5146,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p05.mp3",
+      "song_duration_ms": 6791
+    },
+    {
+      "page_id": "p06",
+      "text": "An owl has no teeth. It gulps a mouse down whole.",
+      "image": "books/mlr_dec_068/pages/p06.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p06.mp3",
+      "duration_ms": 5198,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p06.mp3",
+      "song_duration_ms": 4702
+    },
+    {
+      "page_id": "p07",
+      "text": "Fur and bones will not go down, so an owl spits out a pellet. Count the mice in it!",
+      "image": "books/mlr_dec_068/pages/p07.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p07.mp3",
+      "duration_ms": 7314,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p07.mp3",
+      "song_duration_ms": 8333
+    },
+    {
+      "page_id": "p08",
+      "text": "Not all owls hoot. A barn owl lets out a loud scream. A little owl can growl.",
+      "image": "books/mlr_dec_068/pages/p08.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p08.mp3",
+      "duration_ms": 8672,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p08.mp3",
+      "song_duration_ms": 9482
+    },
+    {
+      "page_id": "p09",
+      "text": "Owls live in barns, in tree holes and in towns. A town owl hunts rats over the crowd.",
+      "image": "books/mlr_dec_068/pages/p09.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p09.mp3",
+      "duration_ms": 8515,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": false,
+      "song_audio": "books/mlr_dec_068/audio/song/p09.mp3",
+      "song_duration_ms": 8986
+    },
+    {
+      "page_id": "p10",
+      "text": "Go out at dusk and look up. You will not pick up a sound, but that round face can count us all.",
+      "image": "books/mlr_dec_068/pages/p10.webp",
+      "audio": "books/mlr_dec_068/audio/pages/p10.mp3",
+      "duration_ms": 7888,
+      "voice": "57785406027844b29b63a772a8477bc2",
+      "has_video": true,
+      "song_audio": "books/mlr_dec_068/audio/song/p10.mp3",
+      "song_duration_ms": 9247,
+      "video": "books/mlr_dec_068/video/p10.mp4"
+    }
+  ],
+  "voices": {
+    "listen": "57785406027844b29b63a772a8477bc2",
+    "words": "851d4a3a36814f8faef50db1884e1ef6",
+    "read_taps": "clear_american_male",
+    "song": "02019f80d2604688a746fbb5d2a0a0f8",
+    "song_label": "Youthful Nursery Singer #4",
+    "emotion": "podcast_host2_expressive",
+    "dictation": "a97131ef0e2f4bc3b55305c9d3ab57c5",
+    "dictation_label": "Cowboy",
+    "listen_label": "Friendly Podcast Host #2"
+  },
+  "listen_speed": 0.8,
+  "jay_finish": "2026-09-08-listen-song-read-no-dictation",
+  "dictation": {
+    "n": 10,
+    "pass_pct": 80,
+    "speaker": "Cowboy",
+    "voice": "a97131ef0e2f4bc3b55305c9d3ab57c5",
+    "items": [
+      {
+        "page_id": "p01",
+        "text": "An owl hunts at night. From a tree it spots a mouse down on the ground.",
+        "audio": "books/mlr_dec_068/audio/dictation/p01.mp3"
+      },
+      {
+        "page_id": "p02",
+        "text": "An owl cannot move its eye. To look about, it twists its neck almost all the way round.",
+        "audio": "books/mlr_dec_068/audio/dictation/p02.mp3"
+      },
+      {
+        "page_id": "p03",
+        "text": "That round face is a dish that scoops sound in. An owl hunts a mouse it cannot see.",
+        "audio": "books/mlr_dec_068/audio/dictation/p03.mp3"
+      },
+      {
+        "page_id": "p04",
+        "text": "An owl's wings have soft edges. They hush each flap, so an owl comes down without a sound.",
+        "audio": "books/mlr_dec_068/audio/dictation/p04.mp3"
+      },
+      {
+        "page_id": "p05",
+        "text": "It drops down through the dark and grabs the mouse with sharp feet.",
+        "audio": "books/mlr_dec_068/audio/dictation/p05.mp3"
+      },
+      {
+        "page_id": "p06",
+        "text": "An owl has no teeth. It gulps a mouse down whole.",
+        "audio": "books/mlr_dec_068/audio/dictation/p06.mp3"
+      },
+      {
+        "page_id": "p07",
+        "text": "Fur and bones will not go down, so an owl spits out a pellet. Count the mice in it!",
+        "audio": "books/mlr_dec_068/audio/dictation/p07.mp3"
+      },
+      {
+        "page_id": "p08",
+        "text": "Not all owls hoot. A barn owl lets out a loud scream. A little owl can growl.",
+        "audio": "books/mlr_dec_068/audio/dictation/p08.mp3"
+      },
+      {
+        "page_id": "p09",
+        "text": "Owls live in barns, in tree holes and in towns. A town owl hunts rats over the crowd.",
+        "audio": "books/mlr_dec_068/audio/dictation/p09.mp3"
+      },
+      {
+        "page_id": "p10",
+        "text": "Go out at dusk and look up. You will not pick up a sound, but that round face can count us all.",
+        "audio": "books/mlr_dec_068/audio/dictation/p10.mp3"
+      }
+    ],
+    "note": "Exact printed page sentences. Easy=tiles. Hard=A-Z pad. Punctuation given on hard."
+  },
+  "jay_finish_listen": "2026-09-09-listen-podcast-host2",
+  "law_breaker": [
+    "through"
+  ]
+}
