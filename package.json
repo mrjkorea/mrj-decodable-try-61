@@ -1,0 +1,8 @@
+{
+  "name": "mrj-decodable-try-61",
+  "private": true,
+  "scripts": {
+    "test": "node test/dec41-progress-merge.test.js && node test/index-html-script-syntax.test.js",
+    "test:playwright": "node test/playwright-header-verify.mjs"
+  }
+}
