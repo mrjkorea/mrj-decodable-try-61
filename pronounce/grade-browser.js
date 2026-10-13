@@ -1,7 +1,7 @@
 /* MRJ Pronounce — Citrinet-only in-page grader (int8 ONNX, onnxruntime-web WASM). */
 (function (global) {
   const CACHE = '20261013-citrinet-only';
-  const DEFAULT_MODEL_BASE = 'https://mrjkorea.github.io/pronounce-try/';
+  const DEFAULT_MODEL_BASE = 'https://mrjkorea.github.io/pronounce/';
   let modelBase = DEFAULT_MODEL_BASE;
 
   let booted = null;

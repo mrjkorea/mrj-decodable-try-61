@@ -825,7 +825,7 @@ async function boot(){
   $('mSay').onclick=()=>setMode('speak');
   try{
     if(window.MRJPronounce){
-      MRJPronounce.setBase('https://mrjkorea.github.io/pronounce-try/');
+      MRJPronounce.setBase('https://mrjkorea.github.io/pronounce/');
       MRJPronounce.load().then(()=>{pronounceLoaded=true;}).catch(()=>{});
     }
   }catch(e){}
