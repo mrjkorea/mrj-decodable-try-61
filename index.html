@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" data-marker="dec20261008band61namepill1">
+<html lang="en" data-marker="dec20261013-citrinet-only-speak">
 <head>
 <!-- READ-TAP-GATE-20261012 -->
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="mrj-build" content="dec61-20261011-savefix" />
+<meta name="mrj-build" content="dec61-20261013-citrinet-only" />
 <title>MRJ Decodables — Books 61-80</title>
 <style>
 :root{--bg:#070d18;--card:#101a2e;--text:#f4f7ff;--muted:#a9b7d6;--hl:#ffd84a;--ok:#3ecf8e}
@@ -278,16 +278,14 @@ body.student-desk #bookStage #play{
     <button id="mSay">Say</button>
   </div>
 </div>
-<script src="https://mrjkorea.github.io/mrj-decodable-try/pronounce/ort/ort.all.min.js"></script>
-<script src="https://mrjkorea.github.io/mrj-decodable-try/pronounce/engine.js"></script>
-<script src="https://mrjkorea.github.io/mrj-decodable-try/pronounce/audio.js"></script>
-<script src="https://mrjkorea.github.io/mrj-decodable-try/pronounce/grade-browser.js?v=20261010-saycitrinet"></script>
+<script src="pronounce/audio.js?v=20261013-citrinet-only"></script>
+<script src="pronounce/grade-browser.js?v=20261013-citrinet-only"></script>
 <link rel="stylesheet" href="https://mrjkorea.github.io/mrj-signin/mrj-auth.css">
 <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js"></script>
 <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js" data-mrj-app="mrj-decodable-try-61"></script>
-<script src="dec41-progress-merge.js?v=dec61-20261011-savefix"></script>
+<script src="dec41-progress-merge.js?v=dec61-20261013-citrinet-only"></script>
 <script>
-const MRJ_BUILD='dec61-20261011-savefix';
+const MRJ_BUILD='dec61-20261013-citrinet-only';
 const TEST=false;
 const ASSET_V='dec20261013famousgate';
 const STUDENT_KEY='mrj-dec-student';
@@ -827,7 +825,7 @@ async function boot(){
   $('mSay').onclick=()=>setMode('speak');
   try{
     if(window.MRJPronounce){
-      MRJPronounce.setBase('https://mrjkorea.github.io/mrj-decodable-try/pronounce/');
+      MRJPronounce.setBase('https://mrjkorea.github.io/pronounce-try/');
       MRJPronounce.load().then(()=>{pronounceLoaded=true;}).catch(()=>{});
     }
   }catch(e){}
