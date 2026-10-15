@@ -50,6 +50,7 @@ function createReportingSandbox(mrjAuth, storage) {
     'localDate',
     'signedInForReport',
     'scoreItemId',
+    'postClassroomMetricsBody',
     'reportScore',
     'speakPageSection',
     'speakAggregateScores'
