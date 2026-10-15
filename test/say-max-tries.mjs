@@ -61,14 +61,14 @@ window.MRJPronounce = {
         reason: 'Say the sentence again, please. Say each word clearly.',
         overall: { score: 0, band: 'fail' },
         words: [],
-        meta: { scoring_mode: 'citrinet-only' },
+        meta: { scoring_mode: 'hubert-phoneme' },
       };
     }
     return {
       doorFail: false,
       overall: { score: 0.12, band: 'fail' },
       words: [],
-      meta: { scoring_mode: 'citrinet-only' },
+      meta: { scoring_mode: 'hubert-phoneme' },
     };
   },
 };
