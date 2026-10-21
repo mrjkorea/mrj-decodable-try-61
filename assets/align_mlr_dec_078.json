@@ -3,7 +3,7 @@
   "product": "decodable",
   "title": "The k That Stopped Talking",
   "level": "DEC 078",
-  "sound": "kn = /n/ \u2014 the k is written and never said (knee, knife, knock, knot, know)",
+  "sound": "kn = /n/ — the k is written and never said (knee, knife, knock, knot, know)",
   "famous": [
     "city"
   ],
@@ -15,9 +15,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p01.mp3",
       "duration_ms": 7209,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p01.mp3",
-      "song_duration_ms": 7810
+      "song_duration_ms": 7810,
+      "video": "books/mlr_dec_078/video/p01.mp4"
     },
     {
       "page_id": "p02",
@@ -26,9 +27,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p02.mp3",
       "duration_ms": 7523,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p02.mp3",
-      "song_duration_ms": 8463
+      "song_duration_ms": 8463,
+      "video": "books/mlr_dec_078/video/p02.mp4"
     },
     {
       "page_id": "p03",
@@ -37,9 +39,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p03.mp3",
       "duration_ms": 9038,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p03.mp3",
-      "song_duration_ms": 10187
+      "song_duration_ms": 10187,
+      "video": "books/mlr_dec_078/video/p03.mp4"
     },
     {
       "page_id": "p04",
@@ -48,9 +51,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p04.mp3",
       "duration_ms": 8620,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p04.mp3",
-      "song_duration_ms": 8750
+      "song_duration_ms": 8750,
+      "video": "books/mlr_dec_078/video/p04.mp4"
     },
     {
       "page_id": "p05",
@@ -59,9 +63,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p05.mp3",
       "duration_ms": 6556,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p05.mp3",
-      "song_duration_ms": 6791
+      "song_duration_ms": 6791,
+      "video": "books/mlr_dec_078/video/p05.mp4"
     },
     {
       "page_id": "p06",
@@ -70,9 +75,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p06.mp3",
       "duration_ms": 7079,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p06.mp3",
-      "song_duration_ms": 7627
+      "song_duration_ms": 7627,
+      "video": "books/mlr_dec_078/video/p06.mp4"
     },
     {
       "page_id": "p07",
@@ -81,9 +87,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p07.mp3",
       "duration_ms": 9299,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p07.mp3",
-      "song_duration_ms": 9900
+      "song_duration_ms": 9900,
+      "video": "books/mlr_dec_078/video/p07.mp4"
     },
     {
       "page_id": "p08",
@@ -92,9 +99,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p08.mp3",
       "duration_ms": 6295,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p08.mp3",
-      "song_duration_ms": 7392
+      "song_duration_ms": 7392,
+      "video": "books/mlr_dec_078/video/p08.mp4"
     },
     {
       "page_id": "p09",
@@ -103,9 +111,10 @@
       "audio": "books/mlr_dec_078/audio/pages/p09.mp3",
       "duration_ms": 7836,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_078/audio/song/p09.mp3",
-      "song_duration_ms": 8881
+      "song_duration_ms": 8881,
+      "video": "books/mlr_dec_078/video/p09.mp4"
     },
     {
       "page_id": "p10",

@@ -15,9 +15,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p01.mp3",
       "duration_ms": 6608,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p01.mp3",
-      "song_duration_ms": 6373
+      "song_duration_ms": 6373,
+      "video": "books/mlr_dec_080/video/p01.mp4"
     },
     {
       "page_id": "p02",
@@ -26,9 +27,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p02.mp3",
       "duration_ms": 6713,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p02.mp3",
-      "song_duration_ms": 8228
+      "song_duration_ms": 8228,
+      "video": "books/mlr_dec_080/video/p02.mp4"
     },
     {
       "page_id": "p03",
@@ -37,9 +39,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p03.mp3",
       "duration_ms": 5041,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p03.mp3",
-      "song_duration_ms": 5355
+      "song_duration_ms": 5355,
+      "video": "books/mlr_dec_080/video/p03.mp4"
     },
     {
       "page_id": "p04",
@@ -48,9 +51,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p04.mp3",
       "duration_ms": 6870,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p04.mp3",
-      "song_duration_ms": 8881
+      "song_duration_ms": 8881,
+      "video": "books/mlr_dec_080/video/p04.mp4"
     },
     {
       "page_id": "p05",
@@ -59,9 +63,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p05.mp3",
       "duration_ms": 5668,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p05.mp3",
-      "song_duration_ms": 6739
+      "song_duration_ms": 6739,
+      "video": "books/mlr_dec_080/video/p05.mp4"
     },
     {
       "page_id": "p06",
@@ -70,9 +75,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p06.mp3",
       "duration_ms": 7366,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p06.mp3",
-      "song_duration_ms": 7810
+      "song_duration_ms": 7810,
+      "video": "books/mlr_dec_080/video/p06.mp4"
     },
     {
       "page_id": "p07",
@@ -81,9 +87,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p07.mp3",
       "duration_ms": 7079,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p07.mp3",
-      "song_duration_ms": 7575
+      "song_duration_ms": 7575,
+      "video": "books/mlr_dec_080/video/p07.mp4"
     },
     {
       "page_id": "p08",
@@ -92,9 +99,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p08.mp3",
       "duration_ms": 5825,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p08.mp3",
-      "song_duration_ms": 6504
+      "song_duration_ms": 6504,
+      "video": "books/mlr_dec_080/video/p08.mp4"
     },
     {
       "page_id": "p09",
@@ -103,9 +111,10 @@
       "audio": "books/mlr_dec_080/audio/pages/p09.mp3",
       "duration_ms": 6190,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_080/audio/song/p09.mp3",
-      "song_duration_ms": 6504
+      "song_duration_ms": 6504,
+      "video": "books/mlr_dec_080/video/p09.mp4"
     },
     {
       "page_id": "p10",
