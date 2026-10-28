@@ -3,21 +3,22 @@
   "product": "decodable",
   "title": "Grey Wins",
   "level": "DEC 072",
-  "sound": "ey = /\u0101/ (they, grey, prey, obey, survey \u2014 long A spelled with two letters that are usually a vowel and a y)",
+  "sound": "ey = /ā/ (they, grey, prey, obey, survey — long A spelled with two letters that are usually a vowel and a y)",
   "famous": [
     "hair"
   ],
   "pages": [
     {
       "page_id": "p01",
-      "text": "Look around: rock, ash, fog, old wood \u2014 they are all grey. So grey is the best coat for hiding.",
+      "text": "Look around: rock, ash, fog, old wood — they are all grey. So grey is the best coat for hiding.",
       "image": "books/mlr_dec_072/pages/p01.webp",
       "audio": "books/mlr_dec_072/audio/pages/p01.mp3",
       "duration_ms": 10318,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p01.mp3",
-      "song_duration_ms": 10893
+      "song_duration_ms": 10893,
+      "video": "books/mlr_dec_072/video/p01.mp4"
     },
     {
       "page_id": "p02",
@@ -26,9 +27,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p02.mp3",
       "duration_ms": 6504,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p02.mp3",
-      "song_duration_ms": 7262
+      "song_duration_ms": 7262,
+      "video": "books/mlr_dec_072/video/p02.mp4"
     },
     {
       "page_id": "p03",
@@ -37,9 +39,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p03.mp3",
       "duration_ms": 6452,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p03.mp3",
-      "song_duration_ms": 8150
+      "song_duration_ms": 8150,
+      "video": "books/mlr_dec_072/video/p03.mp4"
     },
     {
       "page_id": "p04",
@@ -48,9 +51,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p04.mp3",
       "duration_ms": 8777,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p04.mp3",
-      "song_duration_ms": 9482
+      "song_duration_ms": 9482,
+      "video": "books/mlr_dec_072/video/p04.mp4"
     },
     {
       "page_id": "p05",
@@ -59,9 +63,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p05.mp3",
       "duration_ms": 7679,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p05.mp3",
-      "song_duration_ms": 8568
+      "song_duration_ms": 8568,
+      "video": "books/mlr_dec_072/video/p05.mp4"
     },
     {
       "page_id": "p06",
@@ -70,9 +75,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p06.mp3",
       "duration_ms": 9142,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p06.mp3",
-      "song_duration_ms": 10135
+      "song_duration_ms": 10135,
+      "video": "books/mlr_dec_072/video/p06.mp4"
     },
     {
       "page_id": "p07",
@@ -81,9 +87,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p07.mp3",
       "duration_ms": 9665,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p07.mp3",
-      "song_duration_ms": 10318
+      "song_duration_ms": 10318,
+      "video": "books/mlr_dec_072/video/p07.mp4"
     },
     {
       "page_id": "p08",
@@ -92,9 +99,10 @@
       "audio": "books/mlr_dec_072/audio/pages/p08.mp3",
       "duration_ms": 7993,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p08.mp3",
-      "song_duration_ms": 9534
+      "song_duration_ms": 9534,
+      "video": "books/mlr_dec_072/video/p08.mp4"
     },
     {
       "page_id": "p09",
@@ -103,13 +111,14 @@
       "audio": "books/mlr_dec_072/audio/pages/p09.mp3",
       "duration_ms": 6556,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_072/audio/song/p09.mp3",
-      "song_duration_ms": 7915
+      "song_duration_ms": 7915,
+      "video": "books/mlr_dec_072/video/p09.mp4"
     },
     {
       "page_id": "p10",
-      "text": "People go grey too. Grey hair has no shade left in it. Grey animals keep their grey \u2014 people pay to hide it!",
+      "text": "People go grey too. Grey hair has no shade left in it. Grey animals keep their grey — people pay to hide it!",
       "image": "books/mlr_dec_072/pages/p10.webp",
       "audio": "books/mlr_dec_072/audio/pages/p10.mp3",
       "duration_ms": 9952,
@@ -141,7 +150,7 @@
     "items": [
       {
         "page_id": "p01",
-        "text": "Look around: rock, ash, fog, old wood \u2014 they are all grey. So grey is the best coat for hiding.",
+        "text": "Look around: rock, ash, fog, old wood — they are all grey. So grey is the best coat for hiding.",
         "audio": "books/mlr_dec_072/audio/dictation/p01.mp3"
       },
       {
@@ -186,7 +195,7 @@
       },
       {
         "page_id": "p10",
-        "text": "People go grey too. Grey hair has no shade left in it. Grey animals keep their grey \u2014 people pay to hide it!",
+        "text": "People go grey too. Grey hair has no shade left in it. Grey animals keep their grey — people pay to hide it!",
         "audio": "books/mlr_dec_072/audio/dictation/p10.mp3"
       }
     ],

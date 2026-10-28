@@ -3,7 +3,7 @@
   "product": "decodable",
   "title": "Snow Is Not White",
   "level": "DEC 074",
-  "sound": "ow = /\u014d/ (snow, grow, yellow, window, show, bowl, own, low \u2014 the long O spelled `ow`)",
+  "sound": "ow = /ō/ (snow, grow, yellow, window, show, bowl, own, low — the long O spelled `ow`)",
   "famous": [
     "know"
   ],
@@ -15,20 +15,22 @@
       "audio": "books/mlr_dec_074/audio/pages/p01.mp3",
       "duration_ms": 9404,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p01.mp3",
-      "song_duration_ms": 10318
+      "song_duration_ms": 10318,
+      "video": "books/mlr_dec_074/video/p01.mp4"
     },
     {
       "page_id": "p02",
-      "text": "Every snowflake grows its own shape. No two the same \u2014 you will never know them all.",
+      "text": "Every snowflake grows its own shape. No two the same — you will never know them all.",
       "image": "books/mlr_dec_074/pages/p02.webp",
       "audio": "books/mlr_dec_074/audio/pages/p02.mp3",
       "duration_ms": 7366,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p02.mp3",
-      "song_duration_ms": 7810
+      "song_duration_ms": 7810,
+      "video": "books/mlr_dec_074/video/p02.mp4"
     },
     {
       "page_id": "p03",
@@ -37,9 +39,10 @@
       "audio": "books/mlr_dec_074/audio/pages/p03.mp3",
       "duration_ms": 8202,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p03.mp3",
-      "song_duration_ms": 10422
+      "song_duration_ms": 10422,
+      "video": "books/mlr_dec_074/video/p03.mp4"
     },
     {
       "page_id": "p04",
@@ -48,9 +51,10 @@
       "audio": "books/mlr_dec_074/audio/pages/p04.mp3",
       "duration_ms": 7993,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p04.mp3",
-      "song_duration_ms": 8463
+      "song_duration_ms": 8463,
+      "video": "books/mlr_dec_074/video/p04.mp4"
     },
     {
       "page_id": "p05",
@@ -59,9 +63,10 @@
       "audio": "books/mlr_dec_074/audio/pages/p05.mp3",
       "duration_ms": 7941,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p05.mp3",
-      "song_duration_ms": 7862
+      "song_duration_ms": 7862,
+      "video": "books/mlr_dec_074/video/p05.mp4"
     },
     {
       "page_id": "p06",
@@ -70,20 +75,22 @@
       "audio": "books/mlr_dec_074/audio/pages/p06.mp3",
       "duration_ms": 6817,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p06.mp3",
-      "song_duration_ms": 8515
+      "song_duration_ms": 8515,
+      "video": "books/mlr_dec_074/video/p06.mp4"
     },
     {
       "page_id": "p07",
-      "text": "Yellow snow is a dog's mark \u2014 do not eat it. Pink snow is alive: tiny plants grow in it!",
+      "text": "Yellow snow is a dog's mark — do not eat it. Pink snow is alive: tiny plants grow in it!",
       "image": "books/mlr_dec_074/pages/p07.webp",
       "audio": "books/mlr_dec_074/audio/pages/p07.mp3",
       "duration_ms": 8724,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p07.mp3",
-      "song_duration_ms": 9639
+      "song_duration_ms": 9639,
+      "video": "books/mlr_dec_074/video/p07.mp4"
     },
     {
       "page_id": "p08",
@@ -92,9 +99,10 @@
       "audio": "books/mlr_dec_074/audio/pages/p08.mp3",
       "duration_ms": 8306,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p08.mp3",
-      "song_duration_ms": 9064
+      "song_duration_ms": 9064,
+      "video": "books/mlr_dec_074/video/p08.mp4"
     },
     {
       "page_id": "p09",
@@ -103,9 +111,10 @@
       "audio": "books/mlr_dec_074/audio/pages/p09.mp3",
       "duration_ms": 8202,
       "voice": "57785406027844b29b63a772a8477bc2",
-      "has_video": false,
+      "has_video": true,
       "song_audio": "books/mlr_dec_074/audio/song/p09.mp3",
-      "song_duration_ms": 9769
+      "song_duration_ms": 9769,
+      "video": "books/mlr_dec_074/video/p09.mp4"
     },
     {
       "page_id": "p10",
@@ -146,7 +155,7 @@
       },
       {
         "page_id": "p02",
-        "text": "Every snowflake grows its own shape. No two the same \u2014 you will never know them all.",
+        "text": "Every snowflake grows its own shape. No two the same — you will never know them all.",
         "audio": "books/mlr_dec_074/audio/dictation/p02.mp3"
       },
       {
@@ -171,7 +180,7 @@
       },
       {
         "page_id": "p07",
-        "text": "Yellow snow is a dog's mark \u2014 do not eat it. Pink snow is alive: tiny plants grow in it!",
+        "text": "Yellow snow is a dog's mark — do not eat it. Pink snow is alive: tiny plants grow in it!",
         "audio": "books/mlr_dec_074/audio/dictation/p07.mp3"
       },
       {
