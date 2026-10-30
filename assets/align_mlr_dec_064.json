@@ -4,6 +4,9 @@
   "title": "Light Is the Thing You Can Not See",
   "level": "DEC 064",
   "sound": "igh = /ī/ (light, bright, night, high — three letters, one long-I sound, no vowel job for the `gh`)",
+  "letter_intros": [
+    "igh_letter_intro.mp4"
+  ],
   "famous": [
     "food"
   ],

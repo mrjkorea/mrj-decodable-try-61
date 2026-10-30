@@ -4,6 +4,9 @@
   "title": "Every wr Word Has a Twist in It",
   "level": "DEC 079",
   "sound": "wr = /r/ — the w is written and never said (write, wrap, wrist, wrong, wreck)",
+  "letter_intros": [
+    "wr_letter_intro.mp4"
+  ],
   "famous": [
     "school"
   ],

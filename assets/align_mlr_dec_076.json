@@ -4,6 +4,9 @@
   "title": "Hair Is a Thread That Grows",
   "level": "DEC 076",
   "sound": "air = /air/ (hair, fair, chair, pair, stairs, air — plus haircut, hairbrush, unfair)",
+  "letter_intros": [
+    "air_letter_intro.mp4"
+  ],
   "famous": [
     "lamb"
   ],

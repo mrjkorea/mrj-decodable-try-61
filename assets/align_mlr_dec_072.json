@@ -4,6 +4,9 @@
   "title": "Grey Wins",
   "level": "DEC 072",
   "sound": "ey = /ā/ (they, grey, prey, obey, survey — long A spelled with two letters that are usually a vowel and a y)",
+  "letter_intros": [
+    "ey_letter_intro.mp4"
+  ],
   "famous": [
     "hair"
   ],

@@ -4,6 +4,9 @@
   "title": "Crumb the Lamb Can Climb",
   "level": "DEC 080",
   "sound": "-mb = /m/ with a silent b (lamb, climb, comb, thumb, crumb, limb, numb, dumb)",
+  "letter_intros": [
+    "mb_letter_intro.mp4"
+  ],
   "famous": [
     "love"
   ],

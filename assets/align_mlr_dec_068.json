@@ -4,6 +4,9 @@
   "title": "The Owl Comes Down Without a Sound",
   "level": "DEC 068",
   "sound": "ou / ow = /aʊ/ (cow, house, cloud, down, now — the mouth-open sound in `owl`, `round`, `sound`, `ground`, `out`)",
+  "letter_intros": [
+    "ou_ow_letter_intro.mp4"
+  ],
   "famous": [
     "they"
   ],

@@ -4,6 +4,9 @@
   "title": "Oil Is Not Water",
   "level": "DEC 069",
   "sound": "oi / oy = /oi/ (coin, oil, join, point, spoil, noise, voice, boy, toy, joy, soy)",
+  "letter_intros": [
+    "oi_oy_letter_intro.mp4"
+  ],
   "famous": [
     "snow"
   ],

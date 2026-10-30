@@ -4,6 +4,9 @@
   "title": "Every Zoo Animal Gets a Toy",
   "level": "DEC 066",
   "sound": "oo = /uː/ (moon, zoo, food, pool — the long \"ooo\" you make with your lips in a little ring)",
+  "letter_intros": [
+    "oo_long_letter_intro.mp4"
+  ],
   "famous": [
     "toy"
   ],

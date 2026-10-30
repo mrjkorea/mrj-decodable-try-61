@@ -4,6 +4,9 @@
   "title": "The Paint That Tells You Where to Walk",
   "level": "DEC 061",
   "sound": "ai / ay = /ā/ (rain, trail, train, wait, paint · day, way, stay, gray)",
+  "letter_intros": [
+    "ai_ay_letter_intro.mp4"
+  ],
   "famous": [
     "sleep"
   ],

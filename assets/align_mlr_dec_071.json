@@ -4,6 +4,9 @@
   "title": "Blue Is a Trick",
   "level": "DEC 071",
   "sound": "schwa /ə/ — the lazy vowel, mostly unstressed `a` (about, around, panda, sofa, banana)",
+  "letter_intros": [
+    "schwa_a_letter_intro.mp4"
+  ],
   "famous": [
     "blue"
   ],

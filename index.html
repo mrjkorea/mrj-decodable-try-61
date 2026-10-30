@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" data-marker="dec20261022pages7580">
+<html lang="en" data-marker="dec20261030letterintro">
 <head>
 <!-- READ-TAP-GATE-20261012 -->
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="mrj-build" content="dec61-20261022-teacher-mode" />
+<meta name="mrj-build" content="dec61-20261030-letter-intro" />
 <title>MRJ Decodables — Books 61-80</title>
 <style>
 :root{--bg:#070d18;--card:#101a2e;--text:#f4f7ff;--muted:#a9b7d6;--hl:#ffd84a;--ok:#3ecf8e}
@@ -144,6 +144,15 @@ select{width:100%;padding:10px;border-radius:12px;border:0;background:#1b2740;co
 .repeat{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin:10px 0}
 .repeat button{font-size:1.15rem}
 .carpetVid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000}
+#introStage.li-bleed{padding:0;overflow:hidden;display:flex;flex-direction:column;background:#000}
+#introStage.li-bleed #introBody{position:relative;flex:1 1 auto;min-height:0}
+#introStage.li-bleed #introGo{flex:0 0 auto;margin:0!important;border-radius:0;padding:14px}
+#introStage.li-bleed #introGo:not(:disabled){background:linear-gradient(135deg,#4d7dff,#7a5cff)}
+.liScene{position:absolute;inset:0;background:#000;cursor:pointer}
+.liVid{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000}
+.liTap{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:min(28vmin,120px);height:min(28vmin,120px);border-radius:50%;padding:0;font-size:min(12vmin,3rem);background:rgba(77,125,255,.92);box-shadow:0 8px 28px rgba(0,0,0,.55)}
+.liMsg{position:absolute;left:0;right:0;bottom:14px;padding:0 16px;text-align:center;font-weight:900;color:var(--muted)}
+.liMsg:empty{display:none}
 .letterOut{position:absolute;left:50%;top:34%;transform:translate(-50%,-20%) scale(.2);opacity:0;font-size:5.4rem;font-weight:900;color:#ffe27a;text-shadow:0 0 22px #ffd84a;pointer-events:none}
 .letterOut.show{animation:stepout 2.2s ease forwards}
 @keyframes stepout{to{transform:translate(-50%,80%) scale(1);opacity:1;top:52%}}
@@ -288,10 +297,10 @@ body.student-desk #bookStage #play{
 <link rel="stylesheet" href="https://mrjkorea.github.io/mrj-signin/mrj-auth.css">
 <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth.js"></script>
 <script src="https://mrjkorea.github.io/mrj-signin/mrj-auth-boot.js" data-mrj-app="mrj-decodable-try-61"></script>
-<script src="mrj-scores.js?v=dec61-20261022-teacher-mode"></script>
-<script src="dec41-progress-merge.js?v=dec61-20261022-teacher-mode"></script>
+<script src="mrj-scores.js?v=dec61-20261030-letter-intro"></script>
+<script src="dec41-progress-merge.js?v=dec61-20261030-letter-intro"></script>
 <script>
-const MRJ_BUILD='dec61-20261022-teacher-mode';
+const MRJ_BUILD='dec61-20261030-letter-intro';
 const TEST=false;
 const ASSET_V='dec20261022dict2';
 const STUDENT_KEY='mrj-dec-student';
@@ -422,6 +431,30 @@ const SOUND_CARD={
   mlr_dec_070:{show:'AU / AW', sub:'', hint:'/ɔ/ · saw', mouth:'', say:'au'}
 
 };
+// Fallback when an align file has no letter_intros; names live in assets/decodable/letter_intro/.
+const LETTER_INTRO_DIR='decodable/letter_intro/';
+const LETTER_INTRO={
+  mlr_dec_061:['ai_ay_letter_intro.mp4'],
+  mlr_dec_062:['ee_letter_intro.mp4'],
+  mlr_dec_063:['ea_ee_letter_intro.mp4'],
+  mlr_dec_064:['igh_letter_intro.mp4'],
+  mlr_dec_065:['oa_letter_intro.mp4'],
+  mlr_dec_066:['oo_long_letter_intro.mp4'],
+  mlr_dec_067:['oo_short_letter_intro.mp4'],
+  mlr_dec_068:['ou_ow_letter_intro.mp4'],
+  mlr_dec_069:['oi_oy_letter_intro.mp4'],
+  mlr_dec_070:['au_aw_letter_intro.mp4'],
+  mlr_dec_071:['schwa_a_letter_intro.mp4'],
+  mlr_dec_072:['ey_letter_intro.mp4'],
+  mlr_dec_073:['ea_short_letter_intro.mp4'],
+  mlr_dec_074:['ow_long_letter_intro.mp4'],
+  mlr_dec_075:['ew_ue_letter_intro.mp4'],
+  mlr_dec_076:['air_letter_intro.mp4'],
+  mlr_dec_077:['ear_letter_intro.mp4'],
+  mlr_dec_078:['kn_letter_intro.mp4'],
+  mlr_dec_079:['wr_letter_intro.mp4'],
+  mlr_dec_080:['mb_letter_intro.mp4']
+};
 const TAUGHT={mlr_dec_001:['a','m','s','t'],mlr_dec_002:['a','m','s','t','p'],mlr_dec_003:['a','m','s','t','p','i'],mlr_dec_004:['a','m','s','t','p','i','n'],mlr_dec_005:['a','m','s','t','p','i','n','f'],mlr_dec_006:['a','m','s','t','p','i','n','f','o'],mlr_dec_007:['a','m','s','t','p','i','n','f','o','d'],mlr_dec_008:['a','m','s','t','p','i','n','f','o','d','c'],mlr_dec_009:['a','m','s','t','p','i','n','f','o','d','c','u'],mlr_dec_010:['a','m','s','t','p','i','n','f','o','d','c','u','g']};
 let lib=null, i18n=null, pack=null, pageIndex=0, mode='library', audio=null, listenGen=0, hlRaf=0;
 let introStep='mode', cousinIdx=0;
@@ -429,6 +462,7 @@ let introDone=false;      // sound + famous + any pre-video finished -> Listen o
 let preVideoDone=false;   // this book's start video (lawbreaker chase) played through
 let famousVidEnded=false;
 let famousAudEnded=false;
+let letterIntroDone=false; // this book's letter-intro clips played to the end (or are missing)
 let tapped=new Set(), heardListen=new Set(), heardSong=new Set();
 let sheriffOk=false;
 let clipDone=false, showLang=true, lang='ko';
@@ -718,13 +752,22 @@ function postClassroomMetricsBody(body){
   }
   return sheetPost(SCORE_URL, body);
 }
+// Older saves keep `reported` as an array; a pack merge turns it into a {itemId:true} map.
+function reportedMap(r){
+  const out={};
+  if(Array.isArray(r)) r.forEach(k=>{ out[k]=true; });
+  else if(r && typeof r==='object') Object.keys(r).forEach(k=>{ if(r[k]) out[k]=true; });
+  return out;
+}
 function reportIntroStep(section, extra){
   if(!pack || !section) return;
   const bookId=pack.book_id;
   const bp=bookProg(bookId);
   const itemId=section;
-  if(bp[section] || (bp.reported||[]).indexOf(itemId)>=0) return;
-  const patch={reported:[itemId]};
+  const reported=reportedMap(bp.reported);
+  if(bp[section] || reported[itemId]) return;
+  reported[itemId]=true;
+  const patch={reported:reported};
   patch[section]=true;
   setBookProg(bookId, patch);
   const meta=Object.assign({sound: (typeof soundLine==='function'?soundLine(bookId):'')||(pack.sound||'')}, extra||{});
@@ -929,7 +972,7 @@ async function boot(){
   syncStudentNamePill();
   if(LIB_BOOT && LIB_BOOT.markAssetsReady()) openLibraryAfterAuth();
 }
-function hideAll(){ ['signStage','libStage','introStage','bookStage','workStage'].forEach(id=>$(id).classList.add('hidden')); }
+function hideAll(){ stopLetterIntro(); ['signStage','libStage','introStage','bookStage','workStage'].forEach(id=>$(id).classList.add('hidden')); }
 function showLib(){
   if(!studentName()) return;
   if(pack && pack.book_id) lastTestBook=pack.book_id;
@@ -982,6 +1025,7 @@ async function openBook(id){
   cousinIdx=0;
   introDone=false;
   preVideoDone=false;
+  letterIntroDone=false;
   showIntro();
 }
 
@@ -1009,6 +1053,62 @@ function stopFamousMedia(){
   stopA();
 }
 
+function letterIntroClips(){
+  if(!pack) return [];
+  const own=Array.isArray(pack.letter_intros) && pack.letter_intros.length ? pack.letter_intros : null;
+  return (own||LETTER_INTRO[pack.book_id]||[])
+    .map(n=>String(n||'').trim()).filter(Boolean)
+    .map(n=>n.indexOf('/')>=0 ? n : LETTER_INTRO_DIR+n);
+}
+function syncLetterIntroGate(){
+  const go=$('introGo');
+  if(!go || introStep!=='letter-intro') return;
+  go.disabled=!letterIntroDone;
+}
+function stopLetterIntro(){
+  const v=$('letterIntroVid');
+  if(v){ try{v.pause();}catch(e){} v.onplaying=null; v.onpause=null; v.onended=null; v.onerror=null; }
+  const scene=$('liScene');
+  if(scene) scene.onclick=null;
+  $('introStage').classList.remove('li-bleed');
+}
+function playLetterIntro(idx){
+  const clips=letterIntroClips();
+  const v=$('letterIntroVid');
+  if(!v || introStep!=='letter-intro' || !clips[idx]) return;
+  const showTap=on=>{ const t=$('liTap'); if(t) t.classList.toggle('hidden', !on); };
+  // Sound needs a user gesture on some browsers (book 71+ opens straight into this step): offer a tap.
+  const kick=()=>v.play().catch(e=>{ if(e && e.name==='NotAllowedError') showTap(true); });
+  const finish=watched=>{
+    letterIntroDone=true;
+    syncLetterIntroGate();
+    if(watched) reportIntroStep('letter-intro', {video:clips.map(c=>c.split('/').pop()).join(' ')});
+  };
+  v.onplaying=()=>showTap(false);
+  v.onpause=()=>{ if(!v.ended && !v.error) showTap(true); };
+  v.onended=()=>{
+    showTap(false);
+    if(idx<clips.length-1){ playLetterIntro(idx+1); return; }
+    finish(true);
+  };
+  v.onerror=()=>{
+    showTap(false);
+    console.warn('letter-intro video missing', clips[idx]);
+    if(idx<clips.length-1){ playLetterIntro(idx+1); return; }
+    const msg=$('liMsg');
+    if(msg) msg.textContent='The letter video is not ready yet. Tap Next.';
+    finish(false);
+  };
+  const scene=$('liScene');
+  if(scene) scene.onclick=()=>{
+    if(v.error) return;
+    if(v.ended){ playLetterIntro(0); return; }
+    if(v.paused) kick();
+  };
+  v.src=asset(clips[idx]);
+  kick();
+}
+
 function showIntro(){
   mode='intro'; stopA(); hideAll();
   $('introStage').classList.remove('hidden');
@@ -1033,7 +1133,7 @@ function showIntro(){
       $('introGo').textContent='Next';
       return;
     }
-    if(!letters.length){ reportIntroStep('sound'); introStep='famous-card'; showIntro(); return; }
+    if(!letters.length){ reportIntroStep('sound'); introStep='letter-intro'; showIntro(); return; }
     const L=letters[cousinIdx];
     const cu=cousinGlyph(L);
     $('modeBadge').textContent=letterTitle(L);
@@ -1050,6 +1150,21 @@ function showIntro(){
     </div>`;
     playPath('decodable/letter_names/'+L+'.mp3', null, 1);
     $('introGo').textContent = cousinIdx<letters.length-1 ? 'Next letter' : 'Next';
+    return;
+  }
+  if(introStep==='letter-intro'){
+    if(!letterIntroClips().length){ introStep='famous-card'; showIntro(); return; }
+    const snd=soundLine(pack.book_id);
+    $('modeBadge').textContent='Letter intro'+(snd?' · '+snd:'');
+    $('introStage').classList.add('li-bleed');
+    $('introBody').innerHTML=`<div class="liScene" id="liScene">
+      <video class="liVid" id="letterIntroVid" preload="auto" playsinline webkit-playsinline></video>
+      <button type="button" class="liTap hidden" id="liTap" aria-label="Play the letter video">▶</button>
+      <div class="liMsg" id="liMsg" role="status"></div>
+    </div>`;
+    $('introGo').textContent='Next';
+    syncLetterIntroGate();
+    playLetterIntro(0);
     return;
   }
   if(introStep==='famous-card'){
@@ -1129,6 +1244,10 @@ function chooseDiff(d){ setBookProg(pack.book_id,{difficulty:d}); startDictation
 function introAdvance(){
   if(introStep==='cousin'){
     if(cousinIdx<cousinLetters().length-1){ cousinIdx++; showIntro(); return; }
+    introStep='letter-intro'; showIntro(); return;
+  }
+  if(introStep==='letter-intro'){
+    if(!letterIntroDone){ syncLetterIntroGate(); return; }
     introStep='famous-card'; showIntro(); return;
   }
   if(introStep==='famous-card'){
@@ -2056,7 +2175,12 @@ function testBackIntro(){
     if(cousinIdx>0){ cousinIdx--; showIntro(); return; }
     showLib(); return;
   }
+  if(introStep==='letter-intro'){
+    if(letters.length || SOUND_CARD[pack.book_id]){ introStep='cousin'; cousinIdx=Math.max(0, letters.length-1); showIntro(); return; }
+    showLib(); return;
+  }
   if(introStep==='famous-card'){
+    if(letterIntroClips().length){ introStep='letter-intro'; showIntro(); return; }
     if(letters.length){ introStep='cousin'; cousinIdx=letters.length-1; showIntro(); return; }
     showLib(); return;
   }

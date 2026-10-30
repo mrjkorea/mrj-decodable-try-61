@@ -4,6 +4,9 @@
   "title": "Yuna and the Blue Glue",
   "level": "DEC 075",
   "sound": "ew / ue = /uː/ (new, blue, true, glue, few, grew, chew, clue, threw, drew)",
+  "letter_intros": [
+    "ew_ue_letter_intro.mp4"
+  ],
   "famous": [
     "write"
   ],

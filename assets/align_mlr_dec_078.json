@@ -4,6 +4,9 @@
   "title": "The k That Stopped Talking",
   "level": "DEC 078",
   "sound": "kn = /n/ — the k is written and never said (knee, knife, knock, knot, know)",
+  "letter_intros": [
+    "kn_letter_intro.mp4"
+  ],
   "famous": [
     "city"
   ],
