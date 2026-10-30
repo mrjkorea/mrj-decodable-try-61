@@ -4,6 +4,9 @@
   "title": "A Cook Book Is a Book You Must Do",
   "level": "DEC 067",
   "sound": "oo = /ʊ/ (book, look, cook, wood, good, took, hook, stood, foot — the short, quick `oo`, lips barely moving. NOT the long /uː/ of Book 66.)",
+  "letter_intros": [
+    "oo_short_letter_intro.mp4"
+  ],
   "famous": [
     "cow"
   ],

@@ -4,6 +4,9 @@
   "title": "Snow Is Not White",
   "level": "DEC 074",
   "sound": "ow = /ō/ (snow, grow, yellow, window, show, bowl, own, low — the long O spelled `ow`)",
+  "letter_intros": [
+    "ow_long_letter_intro.mp4"
+  ],
   "famous": [
     "know"
   ],

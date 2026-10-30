@@ -4,6 +4,9 @@
   "title": "The Sea Has a Beat",
   "level": "DEC 063",
   "sound": "ea = /ē/ (eat, sea, tea, beach, each — two letters, one long E)",
+  "letter_intros": [
+    "ea_ee_letter_intro.mp4"
+  ],
   "famous": [
     "high"
   ],

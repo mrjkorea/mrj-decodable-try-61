@@ -4,6 +4,9 @@
   "title": "Your Ear Never Shuts",
   "level": "DEC 077",
   "sound": "ear / eer = /eer/ (ear, hear, near, year, deer, cheer, gear, fear, dear, rear)",
+  "letter_intros": [
+    "ear_letter_intro.mp4"
+  ],
   "famous": [
     "listen"
   ],

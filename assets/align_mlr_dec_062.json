@@ -4,6 +4,9 @@
   "title": "A Sheep Keeps the Hill Green",
   "level": "DEC 062",
   "sound": "ee = /ē/ (sheep, feet, green, week — two e's doing one long sound)",
+  "letter_intros": [
+    "ee_letter_intro.mp4"
+  ],
   "famous": [
     "eat"
   ],

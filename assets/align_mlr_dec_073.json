@@ -4,6 +4,9 @@
   "title": "Weather Is Not Bad. Your Coat Is.",
   "level": "DEC 073",
   "sound": "ea = /ĕ/ (bread, head, ready, weather, heavy, instead — the same two letters as Book 63, saying short E instead of long E)",
+  "letter_intros": [
+    "ea_short_letter_intro.mp4"
+  ],
   "famous": [
     "hear"
   ],

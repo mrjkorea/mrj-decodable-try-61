@@ -4,6 +4,9 @@
   "title": "Lan Floats the Tin Boat",
   "level": "DEC 065",
   "sound": "oa = /ō/ (boat, coat, road, toad — two letters, one long O, and the `a` says nothing at all)",
+  "letter_intros": [
+    "oa_letter_intro.mp4"
+  ],
   "famous": [
     "moon"
   ],

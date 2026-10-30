@@ -4,6 +4,9 @@
   "title": "Omar Draws a Hawk on the Lawn",
   "level": "DEC 070",
   "sound": "au / aw = /ɔː/ (saw, paw, lawn, draw, hauls, straw)",
+  "letter_intros": [
+    "au_aw_letter_intro.mp4"
+  ],
   "famous": [
     "bread"
   ],
